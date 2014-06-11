@@ -5,3 +5,7 @@ A friend wanted a stats page that showed terminal output that refreshed every fe
 This is the cheesiest, most dangerous possible thing I could come up with in 20 minutes. Do yourself a favor and put it behind authentication.
 
 Also, the PATH on my system was screwed up so run.php will fix the PATH before it tries to execute anything. It will set it to /{usr/local/,usr/,}{s,}bin.
+
+## Setup
+
+Extract, edit config.php if desired, and browse. If you need more, look elsewhere. This silly little page exists purely for entertainment.
